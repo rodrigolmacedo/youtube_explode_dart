@@ -81,7 +81,7 @@ class ChannelUploadPage {
     });
   }
 
-  ///
+
   ChannelUploadPage.parse(String raw, this.channelId)
       : _root = parser.parse(raw);
 }

@@ -56,6 +56,8 @@ linter:
     - package_names
     - prefer_single_quotes
     - use_function_type_syntax_for_parameters
+    - always_require_non_null_named_parameters
+    - prefer_spread_collections
 
 analyzer:
   exclude:
